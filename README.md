@@ -18,11 +18,10 @@ Checkout: Our checkout process is quick and easy, so you can finalize your purch
 Front-end: HTML, CSS, JavaScript
 Back-end: PHP
 Database: MySQLi
-Contributing
-We welcome contributions from anyone interested in improving GSysterms. To contribute, simply fork the project, make your changes, and submit a pull request.
 
 ## Authors
 <a href="https://www.themesine.com" target="_blank">ThemeSINE</a>
+Oritsemisan Enemigin - Modifier
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
