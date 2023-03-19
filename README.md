@@ -1,27 +1,31 @@
-# Furn – Furniture E-commerce HTML5 Template
+# GSysterms - Version 1
+GSysterms is an e-commerce website that specializes in selling electronics. This project aims to provide customers with an easy and convenient way to purchase the latest gadgets and devices.
 
----
+## Getting Started:
+To get started with GSysterms, simply visit our website at www.gsysterms.com. Here, you can browse our selection of products and make purchases with ease.
 
-Furn is a latest, responsive HTML5 bootstrap 3 based template with moderate structural approach! This can be an astonishing Platform to boost your business extraordinarily to individuals. You will get variety of sections for your ecommerce website. We built up this eCommerce template with outstanding system of navigation among different sections and float effects. You can maintain your business with this super creative template. See our other stunning template list for your other business <br>
-<a href="https://www.themesine.com/downloads/furn-free-ecommerce-html5-template/" target="_blank">Preview Link</a>
+## Features
+GSysterms offers a range of features to make your shopping experience as smooth and efficient as possible. Here are just a few of the features you can expect:
 
-We would love to see how you use this amazing html5 template. You can notify us about your site by sending a mail to us. We will write a blog post to showcase the best examples.
+## Product Categories:
+We have organized our products into easy-to-navigate categories to help you find what you need quickly.
+Search Bar: If you're looking for something specific, our search bar will help you find it in seconds.
+Product Pages: Each product page includes detailed information about the item, including specifications, images, and customer reviews.
+Shopping Cart: You can add items to your shopping cart and keep track of your total cost as you shop.
+Checkout: Our checkout process is quick and easy, so you can finalize your purchase and get your products as soon as possible.
 
-## Preview
+## Technologies Used
+Front-end: HTML, CSS, JavaScript
+Back-end: PHP
+Database: MySQLi
+Contributing
+We welcome contributions from anyone interested in improving GSysterms. To contribute, simply fork the project, make your changes, and submit a pull request.
 
-![free travel agency responsive html template](https://www.themesine.com/wp-content/uploads/edd/2018/05/furn-banner.jpg)
-
-## Demo site
-
-<a href="https://www.themesine.com/downloads/furn-free-ecommerce-html5-template/" rel="nofollow" target="_blank">Demo</a>
-
-## Author
-
+## Authors
 <a href="https://www.themesine.com" target="_blank">ThemeSINE</a>
 
-## Other templates
-
-<a href="https://www.themesine.com/downloads/vue-dashloon-vue-js-admin-dashboard/" rel="nofollow" target="_blank">DashLoon vue admin template</a>
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Credits:
 
@@ -30,9 +34,3 @@ We would love to see how you use this amazing html5 template. You can notify us 
 - Font Awesome http://fontawesome.io
 - Owl Carousel https://owlcarousel2.github.io/OwlCarousel2/
 - Bootsnav http://bootsnav.danurstrap.com/
-
-## License
-
-Copyright (c) 2018 ThemeSINE
-
-Furn is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that ThemeSINE is the original author of this template.
