@@ -20,7 +20,7 @@ Back-end: PHP
 Database: MySQLi
 
 ## Authors
-<a href="https://www.themesine.com" target="_blank">ThemeSINE</a>
+<a href="https://www.themesine.com" target="_blank">ThemeSINE</a><br>
 Oritsemisan Enemigin - Modifier
 
 ## License
