@@ -24,7 +24,7 @@ Database: MySQLi
 Oritsemisan Enemigin - Modifier
 
 ## License
-This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE file for details.</a>
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Credits:
 
